@@ -24,7 +24,7 @@ Currently exploring **AI-powered applications** and contributing to **open sourc
 - 🧠 [Intelligent IDE](https://github.com/riyaaryan2004/Intelligent-IDE)  
   AI-powered code editor with real-time suggestions and debugging support.
 
-- ♟️ [C++ Chess Game](https://github.com/riyaaryan2004/Chess)  
+- ♟️ [Knight-Vision](https://github.com/riyaaryan2004/Knight-Vision/blob/main/README.md)  
   OOP-based chess game for Windows with full rule logic and piece movement validation.
 
 - 💰 [Personal Finance Visualizer](https://github.com/riyaaryan2004/Personal-Finance-Visualizer)  
