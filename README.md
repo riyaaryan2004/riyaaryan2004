@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Riya Aryan
 
-I'm a **MERN Stack Developer**, **Competitive Programmer**, and passionate open-source contributor!
+I'm a **MERN Stack Developer**, **Problem Solver**, and passionate open-source contributor!
 
 Currently exploring **AI-powered applications** and contributing to **open source** initiatives like **GSSoC** and **Hacktoberfest**.
 
